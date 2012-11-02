@@ -1,0 +1,9 @@
+Package: my1pack
+Type: Package
+Title: HW2, Problem1, Problem2
+Version: 1.0
+Date: 2012-11-01
+Author: Yue Wu
+Maintainer: Yue Wu <ywu67@jhu.edu>
+Description: 
+License: GPL-3

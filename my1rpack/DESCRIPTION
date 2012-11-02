@@ -1,0 +1,9 @@
+Package:my1rpack
+Type: Package
+Title:my1rpack
+Version: 1.0
+Date: 2012-11-1
+Author: Jonathan Ho
+Maintainer: Jonathan Ho <jho19@jhu.edu>
+Description:An r package containing deliverables for HW 2
+License: GPL-3
