@@ -1,5 +1,5 @@
-\name{Problem2}
-\alias{Problem2}
+\name{problem2}
+\alias{problem2}
 \docType{data}
 \title{Medal table of winter Olympics 
 %%   ~~ data name/kind ... ~~
@@ -8,7 +8,7 @@
 
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
 }
-\usage{data(Problem2)}
+\usage{data(problem2)}
 \format{
   A list-mode object with 0 slots, each of which contains the overall Brozen, Gold and Silver mdeal counts:
   \describe{
@@ -17,17 +17,14 @@
     \item{\code{Silver}}{Great!}
   }
 }
-\details{
+\details{List of how many medals each country got in winter Olympics from 1924 to 2006. Country names are three letter abbreviation. Each slot contains three numbers counting the number of Bronze, Gold and Silver medals earned by the corresponding country.
 %%  ~~ If necessary, more details than the __description__ above ~~
 }
 \source{
 \url{http://www.guardian.co.uk/news/datablog/2010/feb/11/winter-olympics-medals-by-country}
 }
-\references{
-%%  ~~ possibly secondary sources and usages ~~
-}
 \examples{
-data(Problem2)
-## maybe str(Problem2) ; plot(Problem2) ...
+data(problem2)
+## maybe str(problem2) ; plot(problem2) ...
 }
 \keyword{datasets}

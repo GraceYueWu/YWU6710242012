@@ -1,7 +1,6 @@
 \name{my1pack}
-\alias{my1pack}
+\alias{my1pack-package}
 \docType{package}
-
 \title{package}
 \description{HW2 package}
 \details{
@@ -10,6 +9,9 @@ Problem2:Medal comparison in Winter Olympics games
 }
 \author{Yue Wu <ywu67@jhu.edu>}
 \keyword{package}
-\examples{}
+\examples{
+problem1('bmw1Series',dnorm,c(-5,5),20,TRUE)
+data(problem2)
+}
 
 

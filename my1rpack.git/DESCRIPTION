@@ -5,5 +5,6 @@ Version: 1.0
 Date: 2012-11-01
 Author: Yue Wu
 Maintainer: Yue Wu <ywu67@jhu.edu>
-Description: 
+Depends: tikzDevice
+Description: Package for HW2, with problem1 as a function, problem1 as a data set
 License: GPL-3
